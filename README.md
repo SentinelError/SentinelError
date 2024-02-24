@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SentinelError
 - 👀 I’m interested in game development
-- 🌱 I have completed my graduate course in Computer Science and Engineering. I am also learning a little bit about game dev from XAMK
-- 💞️ I’m looking to collaborate at the moment. In the near future, I hope to help in making an indie game
+- 🌱 I have completed my graduate course in Computer Science and Engineering. I am currently working as a Tech Research Analyst at The Knowledge Academy
+- 💞️ Code hard, sleep hard.
 - 📫 How to reach me, please contact me at my email rkgva2001@gmail.com
 
 <!---
